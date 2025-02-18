@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaima Louhichi</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Spring Boot , Symfony**
+- 🌱 I’m currently learning **Software engineering**
 
-- 💬 Ask me about **React js , Django , Node js**
+- 💬 Ask me about **Angular , Spring Boot **
 
 - 📫 How to reach me **louhichichaima16@gmail.com**
 
